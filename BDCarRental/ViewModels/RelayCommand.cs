@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace BDCarRental.ViewModels
+namespace CarRentalApp.ViewModels
 {
    public class RelayCommand : ICommand
    {

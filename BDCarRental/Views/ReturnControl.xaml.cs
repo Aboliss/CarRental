@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace BDCarRental.Views
+namespace CarRentalApp.Views
 {
    /// <summary>
    /// Interaction logic for ReturnControl.xaml

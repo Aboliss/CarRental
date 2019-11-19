@@ -1,5 +1,5 @@
-﻿using BDCarRental.Models;
-using BDCarRental.Views;
+﻿using CarRentalApp.Models;
+using CarRentalApp.Views;
 using CarRentalDataService.Models;
 using MahApps.Metro.Controls.Dialogs;
 using System;
@@ -14,7 +14,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
 
-namespace BDCarRental.ViewModels
+namespace CarRentalApp.ViewModels
 {
    public class CarsViewModel
    {

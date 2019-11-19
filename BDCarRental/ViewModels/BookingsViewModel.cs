@@ -1,5 +1,5 @@
-﻿using BDCarRental.Models;
-using BDCarRental.Views;
+﻿using CarRentalApp.Models;
+using CarRentalApp.Views;
 using CarRentalDataService.Models;
 using MahApps.Metro.Controls.Dialogs;
 using System;
@@ -10,7 +10,7 @@ using System.Net.Http;
 using System.Windows;
 using System.Windows.Input;
 
-namespace BDCarRental.ViewModels
+namespace CarRentalApp.ViewModels
 {
    public class BookingsViewModel
    {

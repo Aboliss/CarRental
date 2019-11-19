@@ -1,8 +1,8 @@
 ﻿using System.Windows;
-using BDCarRental.ViewModels;
+using CarRentalApp.ViewModels;
 using MahApps.Metro.Controls;
 
-namespace BDCarRental
+namespace CarRentalApp
 {
    /// <summary>
    /// Interaction logic for MainWindow.xaml
